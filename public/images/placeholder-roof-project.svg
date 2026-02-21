@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1280" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1f3f8f"/>
+      <stop offset="1" stop-color="#0f1720"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="900" fill="url(#g)"/>
+  <path d="M260 470L640 220L1020 470" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M360 470V680H920V470" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="130" y="810" fill="white" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="700">Replace with project photography</text>
+</svg>
