@@ -44,7 +44,7 @@ export default function AboutPage() {
               <article key={member.name} className="overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-sm">
                 <div className="relative h-56">
                   <Image
-                    src="/images/generic-team-member-img.png"
+                    src={member.image}
                     alt={`${member.name}, ${member.role}`}
                     fill
                     className="object-cover"

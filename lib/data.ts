@@ -306,7 +306,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: 'Architectural Shingle Upgrade',
     alt: 'New architectural shingle roof installation on a two-story home',
     image:
-      'https://images.pexels.com/photos/6474344/pexels-photo-6474344.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      '/images/architectural.png'
   },
   {
     id: 'g2',
@@ -314,7 +314,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: 'Leak Repair and Flashing',
     alt: 'Roof technician repairing flashing around a chimney',
     image:
-      'https://images.pexels.com/photos/4246120/pexels-photo-4246120.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      '/images/flashing.png'
   },
   {
     id: 'g3',
@@ -322,7 +322,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: 'Seamless Gutter Install',
     alt: 'New seamless gutters installed on a residential roof edge',
     image:
-      'https://images.pexels.com/photos/6474496/pexels-photo-6474496.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      '/images/seamless.png'
   },
   {
     id: 'g4',
@@ -330,7 +330,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: 'Exterior Siding Refresh',
     alt: 'Freshly installed siding on a modern home exterior',
     image:
-      'https://images.pexels.com/photos/1396132/pexels-photo-1396132.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      '/images/siding-refresh.png'
   },
   {
     id: 'g5',
@@ -338,7 +338,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: 'Premium Roof System',
     alt: 'Large residential roof replacement project in progress',
     image:
-      'https://images.pexels.com/photos/209235/pexels-photo-209235.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      '/images/premium-roof-system.png'
   },
   {
     id: 'g6',
@@ -346,7 +346,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: 'Storm Damage Repair',
     alt: 'Crew repairing storm-damaged shingles on a roof',
     image:
-      'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      '/images/claims-help.png'
   },
   {
     id: 'g7',
@@ -354,7 +354,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: 'Downspout Optimization',
     alt: 'Technician adjusting gutter downspout system',
     image:
-      'https://images.pexels.com/photos/5768107/pexels-photo-5768107.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      '/images/downspout.png'
   },
   {
     id: 'g8',
@@ -362,7 +362,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: 'Trim and Siding Detail',
     alt: 'Close-up detail of premium siding and trim installation',
     image:
-      'https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=1200'
+      '/images/trim-and-siding-detail.png'
   }
 ];
 
@@ -372,28 +372,28 @@ export const TEAM_MEMBERS: TeamMember[] = [
     role: 'Founder & Project Lead',
     bio: 'Oversees scopes, quality control, and client communication from inspection through final walkthrough.',
     image:
-      'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=900'
+      "/images/selfie.png"
   },
   {
     name: 'Marcus Hill',
     role: 'Senior Roofing Foreman',
     bio: 'Leads installation crews with a focus on craftsmanship, safety, and efficient project delivery.',
     image:
-      'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=900'
+      "/images/generic-team-member-img.png"
   },
   {
     name: 'Ariana Cole',
     role: 'Client Success Manager',
     bio: 'Coordinates scheduling, updates, financing support, and a smooth homeowner experience.',
     image:
-      'https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=900'
+      "/images/generic-team-member-img.png"
   },
   {
     name: 'Derrick Vaughn',
     role: 'Inspection Specialist',
     bio: 'Handles detailed inspections, storm documentation, and maintenance planning reports.',
     image:
-      'https://images.pexels.com/photos/810775/pexels-photo-810775.jpeg?auto=compress&cs=tinysrgb&w=900'
+      "/images/generic-team-member-img.png"
   }
 ];
 
