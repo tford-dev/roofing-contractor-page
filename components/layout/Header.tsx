@@ -14,7 +14,7 @@ const NAV_ITEMS = [
   { href: '/', label: 'Home' },
   { href: '/services', label: 'Services' },
   { href: '/locations', label: 'Locations' },
-  { href: '/maintenance-plan', label: 'Maintenance Plan' },
+  { href: '/maintenance-plan', label: 'Plans' },
   { href: '/financing', label: 'Financing' },
   { href: '/gallery', label: 'Gallery' },
   { href: '/reviews', label: 'Reviews' },
